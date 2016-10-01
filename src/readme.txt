@@ -1,4 +1,4 @@
-Código fuente
+﻿Código fuente
 =============
 
 Coloca en esta carpeta todos los archivos de código fuente necesarios
@@ -8,3 +8,4 @@ pequeña descripción como se muestra a continuación:
 Archivos:
 
 * Test: Carpeta del proyecto Test para Arduino.
+* codigo de pagina web: Este es el codigo en PHP para la pagina web.
